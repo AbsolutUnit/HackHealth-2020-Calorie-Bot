@@ -1,0 +1,59 @@
+#background{
+  height: 100vh;
+  background-image: url('images/burrito.jpg');
+  /* background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url('images/computer.jpg'); */
+  background-size: cover;
+  /* <------ */
+  background-repeat: no-repeat;
+  background-position: center center;
+  text-align: center;
+  overflow-x: hidden;
+}
+.buttonSize{
+  background-color: #4ef163;
+}
+.foodTitle{
+  text-align: center;
+  position:relative;
+  top:3rem;
+  font-size: 1.7rem;
+  font-family: 'Poppins', sans-serif;
+}
+.posOfOptions{
+  text-align: center;
+}
+.sexOptions,.nameOption,.ageOption,.heightOption,.weightOption,.excerciseOptions,.buttonSize,.numOfMeals{
+  width:25rem;
+  margin:.2rem;
+  height:3rem;
+  border-radius: 4px;
+  border-color: black;
+  padding:5px;
+  border-width: 1.5px;
+}
+
+.sexOptions,.excerciseOptions,.numOfMeals{
+  border-width: 1.5px;
+}
+
+.data{
+  position:relative;
+  bottom:5rem;
+}
+
+.logoPos{
+  text-align: center;
+  height:20rem;
+}
+
+.heading{
+  position: relative;
+  bottom:10rem;
+}
+
+
+/*classes for node*/
+
+.nodeHeading{
+  text-align: center;
+}
