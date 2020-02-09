@@ -99,6 +99,7 @@ class Plan:
         with open('calories.txt','w') as json_file:
             json.dump(self.calories,json_file)
         '''
+        return (self.meal_list,self.calories)
 '''
 x = Plan(cals,meal_num)
 x.makePlan()
