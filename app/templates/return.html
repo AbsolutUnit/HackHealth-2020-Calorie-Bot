@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Your Recomendation</title>
+  </head>
+  <body>
+    {% for meal in meals %}
+      {% for item in meal %}
+      <div class=""><p><strong>{{item[0]}}</strong> <b>{{item[1]}}</b></p> <img src="{{item[2]}}" alt=""></div>
+      {% endfor %}
+    {% endfor %}
+
+  </body>
+</html>
