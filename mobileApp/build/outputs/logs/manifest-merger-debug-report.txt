@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:1:1-29:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\d684aa658a3f468464baf5e8742c2e5f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\b635c0099fa45d5b309d131d0d9d3475\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\223d978fcff4098377a821614dc20225\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\6bc6407356f722e2bf3bfe0df5ca5762\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\5eb69b6732b4a7e4c75abc46e089942a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\1fc3f3412f44123f7949567e336f4fd3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\581bd4377b53f96a749c3b07a765b584\AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.0.0-nightly.aar\ee635ee18e89b28b71b88c800cd3879d\AndroidManifest.xml:2:1-10:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-gpu-0.0.0-nightly.aar\4a4408ef4caa89947384c1d6e3acc64d\AndroidManifest.xml:2:1-10:12
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-support-0.0.0-nightly.aar\d0de30500d663cb0357785f698c9a3a2\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\204ff53c24da3584e331786fa3c30faa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\5446176e1c238ea2602e53bcb0978628\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\ae8f8c903446fcc36f197333090d5aa1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\5cf64cf02150cc0d095d76061aed1051\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\7907abe49d65b000c63ecfa4c5123467\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\3d3094972030ddc898258224898e543c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\d9a51832bf51a9cdcb11869b353cf757\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\8e0fba6685d29646211e6a6681b0c4a4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\2a2c154439b64a80ae90d9d6a42b471f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\40abc27132dc26f6df22c18269e6be33\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\fcd2aeb24ae6e6c37df488cd82810ffa\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\c899134add6d68b2279972e54f71dfe0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\8d19748a17486ab29f4cee4d6b08565b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\3f965d9c7b106bcd45f902681fc5c973\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\5a749e122e492d00c0368669e1e3f6fb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\8bfc1b583dedb1661543e31d395fda71\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\d7bdc87b39a6b37dfaf62f49f27553ea\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\1b7a9315de8bd3818361461bec7b03e0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\bc6db1fdb0ed2c18067b26dd72bbc01c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\030d162f80aa740f93397368a2f28c1b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\e8f0c4876da2bc288efc5f67698cbeb1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\53caa7aa14fe76262914ce74522ac1fc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\a87c2497e9e9f6d53f4b2dd744161bd7\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:1:1-29:12
+	package
+		ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:2:5-58
+		INJECTED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:1:1-29:12
+		INJECTED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:1:1-29:12
+		INJECTED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:4:5-17
+INJECTED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:4:5-17
+INJECTED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:4:5-17
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\d684aa658a3f468464baf5e8742c2e5f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\d684aa658a3f468464baf5e8742c2e5f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\b635c0099fa45d5b309d131d0d9d3475\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\b635c0099fa45d5b309d131d0d9d3475\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\223d978fcff4098377a821614dc20225\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\223d978fcff4098377a821614dc20225\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\6bc6407356f722e2bf3bfe0df5ca5762\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\6bc6407356f722e2bf3bfe0df5ca5762\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\5eb69b6732b4a7e4c75abc46e089942a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\5eb69b6732b4a7e4c75abc46e089942a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\1fc3f3412f44123f7949567e336f4fd3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\1fc3f3412f44123f7949567e336f4fd3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\581bd4377b53f96a749c3b07a765b584\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\581bd4377b53f96a749c3b07a765b584\AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.0.0-nightly.aar\ee635ee18e89b28b71b88c800cd3879d\AndroidManifest.xml:5:5-6:41
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.0.0-nightly.aar\ee635ee18e89b28b71b88c800cd3879d\AndroidManifest.xml:5:5-6:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-gpu-0.0.0-nightly.aar\4a4408ef4caa89947384c1d6e3acc64d\AndroidManifest.xml:5:5-6:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-gpu-0.0.0-nightly.aar\4a4408ef4caa89947384c1d6e3acc64d\AndroidManifest.xml:5:5-6:41
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-support-0.0.0-nightly.aar\d0de30500d663cb0357785f698c9a3a2\AndroidManifest.xml:4:5-44
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-support-0.0.0-nightly.aar\d0de30500d663cb0357785f698c9a3a2\AndroidManifest.xml:4:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\204ff53c24da3584e331786fa3c30faa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\204ff53c24da3584e331786fa3c30faa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\5446176e1c238ea2602e53bcb0978628\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\5446176e1c238ea2602e53bcb0978628\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\ae8f8c903446fcc36f197333090d5aa1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\ae8f8c903446fcc36f197333090d5aa1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\5cf64cf02150cc0d095d76061aed1051\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\5cf64cf02150cc0d095d76061aed1051\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\7907abe49d65b000c63ecfa4c5123467\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\7907abe49d65b000c63ecfa4c5123467\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\3d3094972030ddc898258224898e543c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\3d3094972030ddc898258224898e543c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\d9a51832bf51a9cdcb11869b353cf757\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\d9a51832bf51a9cdcb11869b353cf757\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\8e0fba6685d29646211e6a6681b0c4a4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\8e0fba6685d29646211e6a6681b0c4a4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\2a2c154439b64a80ae90d9d6a42b471f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\2a2c154439b64a80ae90d9d6a42b471f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\40abc27132dc26f6df22c18269e6be33\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\40abc27132dc26f6df22c18269e6be33\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\fcd2aeb24ae6e6c37df488cd82810ffa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\fcd2aeb24ae6e6c37df488cd82810ffa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\c899134add6d68b2279972e54f71dfe0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\c899134add6d68b2279972e54f71dfe0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\8d19748a17486ab29f4cee4d6b08565b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\8d19748a17486ab29f4cee4d6b08565b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\3f965d9c7b106bcd45f902681fc5c973\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\3f965d9c7b106bcd45f902681fc5c973\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\5a749e122e492d00c0368669e1e3f6fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\5a749e122e492d00c0368669e1e3f6fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\8bfc1b583dedb1661543e31d395fda71\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\8bfc1b583dedb1661543e31d395fda71\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\d7bdc87b39a6b37dfaf62f49f27553ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\d7bdc87b39a6b37dfaf62f49f27553ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\1b7a9315de8bd3818361461bec7b03e0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\1b7a9315de8bd3818361461bec7b03e0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\bc6db1fdb0ed2c18067b26dd72bbc01c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\bc6db1fdb0ed2c18067b26dd72bbc01c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\030d162f80aa740f93397368a2f28c1b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\030d162f80aa740f93397368a2f28c1b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\e8f0c4876da2bc288efc5f67698cbeb1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\e8f0c4876da2bc288efc5f67698cbeb1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\53caa7aa14fe76262914ce74522ac1fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\53caa7aa14fe76262914ce74522ac1fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\a87c2497e9e9f6d53f4b2dd744161bd7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\a87c2497e9e9f6d53f4b2dd744161bd7\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:4:5-17
+INJECTED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:4:5-17
+	android:targetSdkVersion
+		INJECTED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:4:5-17
+		INJECTED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:4:5-17
+		MERGED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:4:5-17
+		MERGED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:4:5-17
+		INJECTED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:6:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:8:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:9:19-67
+application
+ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:12:5-28:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\d684aa658a3f468464baf5e8742c2e5f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\d684aa658a3f468464baf5e8742c2e5f\AndroidManifest.xml:22:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.0.0-nightly.aar\ee635ee18e89b28b71b88c800cd3879d\AndroidManifest.xml:8:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.0.0-nightly.aar\ee635ee18e89b28b71b88c800cd3879d\AndroidManifest.xml:8:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-gpu-0.0.0-nightly.aar\4a4408ef4caa89947384c1d6e3acc64d\AndroidManifest.xml:8:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-gpu-0.0.0-nightly.aar\4a4408ef4caa89947384c1d6e3acc64d\AndroidManifest.xml:8:5-20
+MERGED from [androidx.core:core:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\fcd2aeb24ae6e6c37df488cd82810ffa\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\fcd2aeb24ae6e6c37df488cd82810ffa\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\c899134add6d68b2279972e54f71dfe0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\c899134add6d68b2279972e54f71dfe0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Anook\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\fcd2aeb24ae6e6c37df488cd82810ffa\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:15:9-61
+	android:roundIcon
+		ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:18:9-40
+activity#org.tensorflow.lite.examples.classification.ClassifierActivity
+ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:screenOrientation
+		ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:22:13-49
+	android:label
+		ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:20:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\Anook\examples\lite\examples\image_classification\android\app\src\main\AndroidManifest.xml:25:27-74
