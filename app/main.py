@@ -38,7 +38,7 @@ class Plan:
 
         driver.get(self.SRC)
 
-        time.sleep(0.5)
+        time.sleep(1.5)
 
         driver.find_element_by_id('cal_input').send_keys(self.CALORIES)
 
@@ -89,10 +89,7 @@ class Plan:
             #self.calories[meal_num] = str(totCal.text)
             #meal_num += 1
         driver.quit()
-        print(len(self.meal_list))
-        print(self.meal_list)
-        print(self.meal_list[0])
-        print(self.calories)
+        
         '''
         with open('meals.txt','w') as json_file:
             json.dump(self.meal_list,json_file)
@@ -101,6 +98,6 @@ class Plan:
         '''
         return (self.meal_list,self.calories)
 '''
-x = Plan(cals,meal_num)
+x = Plan(2000,5)
 x.makePlan()
 '''
