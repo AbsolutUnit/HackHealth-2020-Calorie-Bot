@@ -18,11 +18,12 @@
       <h1 class="foodTitle">A Modern Food Recipe Generator</h1>
     </div>
     <form class="" action="/" method="post">
+      {{ form.hidden_tag() }}
 
       <div class="data">
         <div class="row posOfOptions">
           <div class="col-lg-12">
-            <input class="nameOption" type="text" name="nameValue" value="" placeholder="Name">
+            <!-- <input class="nameOption" type="text" name="nameValue" value="" placeholder="Name"> -->
           </div>
           <div class="col-lg-12">
             <select class="sexOptions" name="sex">
@@ -31,13 +32,16 @@
             </select>
           </div>
           <div class="col-lg-12">
-            <input class="ageOption" type="text" name="ageValue" value="" placeholder="Age">
+            {{form.age(size=32)}}
+            <!-- <input class="ageOption" type="text" name="ageValue" value="" placeholder="Age"> -->
           </div>
           <div class="col-lg-12">
-            <input class="heightOption" type="text" name="heightValue" value="" placeholder="Height in inches">
+            {{form.height(size=32)}}
+            <!-- <input class="heightOption" type="text" name="heightValue" value="" placeholder="Height in inches"> -->
           </div>
           <div class="col-lg-12">
-            <input class="weightOption" type="text" name="weightValue" value="" placeholder="Weight in pounds">
+            {{form.weight(size=32)}}
+            <!-- <input class="weightOption" type="text" name="weightValue" value="" placeholder="Weight in pounds"> -->
           </div>
 
 
@@ -65,8 +69,10 @@
                 </select>
             </div>
             <div class="col-lg-12">
-              <button class = "buttonSize" type="submit" name="button">Submit</button>
+              <!-- <button class = "buttonSize" type="submit" name="button">Submit</button> -->
+              {{ form.submit() }}
             </div>
+            
 
         </div>
       </div>

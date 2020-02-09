@@ -4,7 +4,15 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 import time
 import json
-       
+import argparse
+'''
+parser = argparse.ArgumentParser()
+parser.add_argument("calories",help="How many calories?")
+parser.add_argument("meals",help="How many meals?")
+args = parser.parse_args()
+cals = args.calories
+meal_num = args.meals
+'''    
      
 class Plan:
     def __init__(self,cal=2000,meal=3):
@@ -15,8 +23,8 @@ class Plan:
         if self.MEALS_NUM < 1:
             self.MEALS_NUM = 1
         self.SRC = 'https://www.eatthismuch.com/'
-        self.meal_list = {}
-        self.calories = {}
+        self.meal_list = []
+        self.calories = []
 
     def makePlan(self):
         options = Options()
@@ -46,7 +54,7 @@ class Plan:
   
         
         meals = driver.find_elements_by_class_name('meal_box.meal_container.row')
-        meal_num = 0
+       # meal_num = 0
         for meal in meals:
             #title = meal.find_element_by_class_name('col.text-dark-gray.text-large.text-strong.print_meal_title.wrap_or_truncate.pr-0')
             totCal = meal.find_element_by_class_name('cal_amount.text-small.text-light-gray')
@@ -75,17 +83,23 @@ class Plan:
                 #print (name.text + " - " + amt + " " + serv_name.text)
                 food_list.append([str(name.text),str(amt +" " + serv_name.text),str(link)])
             #print('Total Calories :'+totCal.text + "\n")
-            self.meal_list[meal_num] = food_list
-            self.calories[meal_num] = str(totCal.text)
-            meal_num += 1
+            #self.meal_list[meal_num] = food_list
+            self.meal_list.append(food_list)
+            self.calories.append(str(totCal.text))
+            #self.calories[meal_num] = str(totCal.text)
+            #meal_num += 1
         driver.quit()
-        #print(self.meal_list)
-        #print(self.calories)
+        print(len(self.meal_list))
+        print(self.meal_list)
+        print(self.meal_list[0])
+        print(self.calories)
+        '''
         with open('meals.txt','w') as json_file:
             json.dump(self.meal_list,json_file)
         with open('calories.txt','w') as json_file:
             json.dump(self.calories,json_file)
-                
-
-x = Plan(2500,9)
+        '''
+'''
+x = Plan(cals,meal_num)
 x.makePlan()
+'''
