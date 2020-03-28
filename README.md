@@ -1,5 +1,4 @@
 # HackHealth-2020
-Something cooL
 This is a project created in Stony Brook University's HackHEALTH Hackathon
 by Aneek Barua, George Liang, Philip Liu, Jacky Chen, and Yupeng.
 
